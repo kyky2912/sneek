@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Score()
+comment0.text=\r\n\ Score\ -\ sets\ up\ the\ score\ object\r\n
+comment1.params=
+comment1.target=void\ setText()
+comment1.text=\r\n\ setText\ -\ sets\ the\ text\ of\ the\ score\r\n
+comment2.params=
+comment2.target=void\ updateScore()
+comment2.text=\r\n\ updateScore\ -\ adds\ score\ then\ runs\ setText\r\n
+comment3.params=p\ distance
+comment3.target=int\ ShiftSouth(int,\ int)
+comment3.text=\r\n\ ShiftSouth\ -\ shifts\ the\ coordinates\ down\ by\ the\ distance\ handed\ to\ it\r\n\ @param\ int\ p\r\n\ @param\ int\ distance\r\n
+comment4.params=p\ distance
+comment4.target=int\ ShiftEast(int,\ int)
+comment4.text=\r\n\ ShiftEast\ -\ shifts\ the\ coordinates\ down\ by\ the\ distance\ handed\ to\ it\r\n\ @param\ int\ p\r\n\ @param\ int\ distance\r\n
+comment5.params=
+comment5.target=void\ setSpeed()
+numComments=6

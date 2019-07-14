@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xCoord\ yCoord
+comment0.target=Point(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Point\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=xCoord
+comment3.target=void\ setX(int)
+comment4.params=yCoord
+comment4.target=void\ setY(int)
+numComments=5

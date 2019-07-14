@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=bodyPosition
+comment0.target=SnakeHead(int)
+comment0.text=\r\n\ SnakeHead\ Constructor\r\n\ Sets\ the\ image\ for\ snakeHead\r\n\ @param\ int\ bodyPosition\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ SnakeHead\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ moveHead()
+comment2.text=\r\n\ moveHead\r\n\ moves\ the\ head\ to\ the\ next\ position\ on\ the\ screen\r\n
+comment3.params=
+comment3.target=void\ growTail()
+comment3.text=\r\n\ growTail\r\n\ adds\ a\ tail\ segment\ to\ the\ snake\ and\ adds\ new\ food\ to\ the\ world\r\n
+comment4.params=
+comment4.target=void\ lookForFood()
+comment4.text=\r\n\ lookForFood\r\n\ Looks\ for\ food.\r\n\ If\ the\ snake\ finds\ food\ it\ eats\ the\ food\ \r\n
+comment5.params=
+comment5.target=void\ hitBody()
+comment5.text=\r\n\ hitBody\ -\ checks\ whether\ the\ snake\ tries\ to\ eat\ it's\ own\ body\r\n
+comment6.params=clss
+comment6.target=boolean\ canSee(java.lang.Class)
+comment6.text=\r\n\ canSee\r\n\ looks\ for\ other\ objects\ the\ intersect\ with\ the\ snake\r\n\ @param\ Class\ clss\r\n
+comment7.params=clss
+comment7.target=void\ eat(java.lang.Class)
+comment7.text=\r\n\ eat\r\n\ eats\ the\ object\ and\ removes\ it\ from\ the\ screen\r\n\ @param\ Class\ clss\r\n
+numComments=8
